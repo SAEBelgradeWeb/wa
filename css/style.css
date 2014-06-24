@@ -1,0 +1,43 @@
+body {
+	background-color: #fc7d00;
+	font-family: 'Open Sans', sans-serif;
+	color: white;
+}
+
+#city {
+	width: 80%;
+	margin: 0 auto;
+	height: 30px;
+	display: block;
+	border: none;
+	text-align: center;
+	font-size: 25px;
+	outline: none;
+}
+h1 {
+
+	font-size: 30px;
+	line-height: 30px;
+	padding: 0;
+	margin-top: 10px;
+}
+
+h2 {
+	margin: 0 auto;
+	text-align: center;
+	font-size: 200px;
+	line-height: 200px;
+	padding: 30px;
+	width: 250px;
+	border: 8px solid white;
+	border-radius: 50%;
+}
+
+h3 {
+	font-size: 72px;
+	line-height: 72px;
+	padding: 15px;
+	margin: 0;
+	text-align: right;
+
+}
